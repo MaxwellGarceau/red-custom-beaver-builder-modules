@@ -13,8 +13,8 @@ class FLRedButtonModule extends FLBuilderModule {
 			'name'          	=> __( 'Red Button', 'fl-builder' ),
 			'description'   	=> __( 'RED\'s modifications to the default Beaver Builder Button', 'fl-builder' ),
 			'category'      	=> __( 'Basic', 'fl-builder' ),
-			'dir'             => FL_MODULE_EXAMPLES_DIR . 'modules/red-button/',
-			'url'             => FL_MODULE_EXAMPLES_DIR . 'modules/red-button/',
+			// 'dir'             => FL_MODULE_EXAMPLES_DIR . 'modules/red-button/',
+			// 'url'             => FL_MODULE_EXAMPLES_DIR . 'modules/red-button/',
 			'partial_refresh'	=> true,
 			'icon'				=> 'button.svg',
 		));

@@ -13,8 +13,8 @@ class FLUSCWhiteBackgroundButtonModule extends FLBuilderModule {
 			'name'          	=> __( 'USC White Background Button', 'fl-builder' ),
 			'description'   	=> __( 'RED\'s modifications to the default Beaver Builder Button for the USC Websites', 'fl-builder' ),
 			'category'      	=> __( 'Basic', 'fl-builder' ),
-			'dir'             => FL_MODULE_EXAMPLES_DIR . 'modules/usc-white-background-button/',
-			'url'             => FL_MODULE_EXAMPLES_DIR . 'modules/usc-white-background-button/',
+			// 'dir'             => FL_MODULE_EXAMPLES_DIR . 'modules/usc-white-background-button/',
+			// 'url'             => FL_MODULE_EXAMPLES_DIR . 'modules/usc-white-background-button/',
 			'partial_refresh'	=> true,
 			'icon'				=> 'button.svg',
 		));
